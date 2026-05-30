@@ -1,3 +1,3 @@
 # React-Demo
 This Repository is for react.js project
-Author - Rushikesh Mistry
+Author - Rushikesh-Mistry
